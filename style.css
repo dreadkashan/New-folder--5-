@@ -1,3 +1,9 @@
 .col{
-    border: 9px solid red;
+    border: 1px solid red;
+}
+.col-6{
+    border: 2px solid blue;
+}
+.col-2{
+    border: 3px solid purple;
 }
